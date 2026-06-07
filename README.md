@@ -7,7 +7,7 @@ This project analyzes online retail transaction data to evaluate sales performan
 The objective of this analysis was to answer key business questions regarding revenue generation, product performance, customer purchasing behavior, and expansion opportunities.
 
 The dataset contains transactional sales records including product information, quantities purchased, unit prices, invoice dates, and customer locations.
-
+Due to dataset size constraints, the repository contains the cleaned analytical dashboard and reporting workbook. The original dataset is publicly available from Kaggle as online retail sheet.
 ---
 
 ## Tools Used
@@ -16,7 +16,6 @@ The dataset contains transactional sales records including product information, 
 * Data Cleaning & Transformation
 * Pivot Tables
 * Pivot Charts
-* Business Analytics Dashboard
 
 ---
 
