@@ -3,7 +3,12 @@
 ## Project Overview
 
 This project analyzes online retail transaction data to evaluate sales performance, identify revenue trends, determine top-performing products and regions, and provide strategic recommendations for business growth.
+ 
+The objective of this analysis was to answer key business questions regarding revenue generation, product performance, customer purchasing behavior, and expansion opportunities.  
 
+The dataset contains transactional sales records including product information, quantities purchased, unit prices, invoice dates, and customer locations. 
+
+Due to dataset size constraints, the repository contains the cleaned analytical dashboard and reporting workbook. The original dataset is publicly available from Kaggle as online retail sheet.
 
 ---
 
